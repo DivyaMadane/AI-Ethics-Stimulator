@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body, #root { height: 100%; }
+body {
+  @apply text-gray-900;
+  font-family: 'Poppins', system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, 'Noto Sans', 'Apple Color Emoji', 'Segoe UI Emoji';
+  background: linear-gradient(180deg, #e6f0ff 0%, #ffffff 60%);
+}
+
+.button-primary {
+  @apply px-4 py-2 rounded-md bg-blue-600 text-white shadow hover:bg-blue-700 transition;
+}
+.card {
+  @apply bg-white rounded-xl shadow-md p-4;
+}
+.card-title {
+  @apply text-lg font-semibold mb-2;
+}
+.badge {
+  @apply inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium;
+}
+.badge-green { @apply bg-green-100 text-green-700; }
+.badge-blue { @apply bg-blue-100 text-blue-700; }
+.badge-orange { @apply bg-orange-100 text-orange-700; }

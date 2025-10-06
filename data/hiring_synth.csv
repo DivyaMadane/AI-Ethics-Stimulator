@@ -1,0 +1,201 @@
+id,name,gender,department,experience,test_score,group,hired
+0,Candidate 0,Male,Research & Development,7.61,70.1,majority,0
+1,Candidate 1,Female,Sales,5.04,79.1,minority,0
+2,Candidate 2,Female,Sales,6.36,76.0,minority,0
+3,Candidate 3,Male,Research & Development,4.38,65.3,majority,0
+4,Candidate 4,Male,Research & Development,5.65,78.2,majority,0
+5,Candidate 5,Male,Sales,4.74,82.0,majority,0
+6,Candidate 6,Male,Sales,5.19,53.0,majority,0
+7,Candidate 7,Female,Research & Development,6.19,80.5,minority,0
+8,Candidate 8,Female,Sales,3.36,62.0,minority,0
+9,Candidate 9,Female,Sales,9.18,76.8,minority,0
+10,Candidate 10,Male,Research & Development,2.99,67.8,majority,0
+11,Candidate 11,Female,Research & Development,2.57,52.3,minority,0
+12,Candidate 12,Female,Research & Development,7.32,54.5,minority,0
+13,Candidate 13,Male,Sales,6.58,73.6,majority,0
+14,Candidate 14,Male,Research & Development,6.25,80.1,majority,0
+15,Candidate 15,Male,Sales,6.26,62.1,majority,0
+16,Candidate 16,Male,Sales,4.98,80.7,majority,0
+17,Candidate 17,Male,Research & Development,3.21,57.1,majority,0
+18,Candidate 18,Male,Research & Development,5.15,76.2,majority,0
+19,Candidate 19,Male,Research & Development,3.65,62.5,majority,0
+20,Candidate 20,Female,Research & Development,6.95,66.2,minority,0
+21,Candidate 21,Male,Research & Development,4.71,77.6,majority,0
+22,Candidate 22,Male,Sales,3.35,62.7,majority,0
+23,Candidate 23,Male,Sales,4.36,68.4,majority,0
+24,Candidate 24,Male,Sales,5.83,85.1,majority,0
+25,Candidate 25,Female,Sales,3.87,63.1,minority,0
+26,Candidate 26,Male,Human Resources,3.36,83.0,majority,0
+27,Candidate 27,Male,Sales,5.49,59.4,majority,0
+28,Candidate 28,Male,Research & Development,5.49,83.4,majority,0
+29,Candidate 29,Male,Research & Development,3.99,94.3,majority,0
+30,Candidate 30,Female,Research & Development,4.06,44.3,minority,0
+31,Candidate 31,Male,Research & Development,5.46,67.4,majority,0
+32,Candidate 32,Male,Research & Development,2.1,83.9,majority,0
+33,Candidate 33,Female,Research & Development,2.19,71.6,minority,0
+34,Candidate 34,Female,Sales,3.56,74.5,minority,0
+35,Candidate 35,Female,Research & Development,4.57,66.8,minority,0
+36,Candidate 36,Male,Sales,5.62,74.0,majority,0
+37,Candidate 37,Male,Sales,7.95,71.1,majority,0
+38,Candidate 38,Female,Research & Development,6.72,88.0,minority,0
+39,Candidate 39,Male,Sales,4.68,76.1,majority,0
+40,Candidate 40,Male,Human Resources,4.96,77.1,majority,0
+41,Candidate 41,Male,Human Resources,2.99,68.1,majority,0
+42,Candidate 42,Male,Human Resources,4.96,67.1,majority,0
+43,Candidate 43,Female,Sales,4.42,64.8,minority,0
+44,Candidate 44,Male,Sales,5.65,77.7,majority,0
+45,Candidate 45,Female,Human Resources,3.35,64.9,minority,0
+46,Candidate 46,Male,Research & Development,6.04,80.5,majority,0
+47,Candidate 47,Male,Human Resources,8.07,97.9,majority,0
+48,Candidate 48,Male,Human Resources,4.78,83.5,majority,0
+49,Candidate 49,Male,Research & Development,5.8,73.1,majority,0
+50,Candidate 50,Female,Sales,6.38,84.4,minority,0
+51,Candidate 51,Female,Sales,4.2,65.1,minority,0
+52,Candidate 52,Female,Research & Development,5.45,49.5,minority,0
+53,Candidate 53,Female,Sales,5.03,57.9,minority,0
+54,Candidate 54,Male,Sales,5.2,50.6,majority,0
+55,Candidate 55,Female,Research & Development,3.45,69.8,minority,0
+56,Candidate 56,Male,Human Resources,5.05,73.2,majority,0
+57,Candidate 57,Male,Research & Development,6.0,97.1,majority,0
+58,Candidate 58,Male,Research & Development,7.9,80.9,majority,0
+59,Candidate 59,Male,Sales,6.92,70.4,majority,0
+60,Candidate 60,Male,Research & Development,9.31,87.0,majority,0
+61,Candidate 61,Male,Human Resources,3.47,46.5,majority,0
+62,Candidate 62,Female,Sales,6.74,72.8,minority,0
+63,Candidate 63,Male,Research & Development,5.37,86.3,majority,0
+64,Candidate 64,Male,Research & Development,9.38,59.3,majority,0
+65,Candidate 65,Male,Research & Development,3.38,90.7,majority,0
+66,Candidate 66,Male,Research & Development,3.32,81.1,majority,0
+67,Candidate 67,Female,Research & Development,3.8,69.0,minority,0
+68,Candidate 68,Male,Sales,0.75,80.6,majority,0
+69,Candidate 69,Female,Sales,3.95,97.2,minority,0
+70,Candidate 70,Female,Research & Development,3.48,76.2,minority,0
+71,Candidate 71,Male,Research & Development,5.3,80.0,majority,0
+72,Candidate 72,Male,Research & Development,5.68,71.5,majority,0
+73,Candidate 73,Female,Human Resources,8.75,59.8,minority,0
+74,Candidate 74,Female,Research & Development,6.9,84.0,minority,0
+75,Candidate 75,Female,Research & Development,3.85,63.7,minority,0
+76,Candidate 76,Female,Research & Development,3.2,74.9,minority,0
+77,Candidate 77,Male,Research & Development,5.98,71.3,majority,0
+78,Candidate 78,Male,Research & Development,2.36,82.7,majority,0
+79,Candidate 79,Male,Research & Development,8.66,81.0,majority,0
+80,Candidate 80,Female,Research & Development,7.36,86.5,minority,0
+81,Candidate 81,Female,Sales,4.06,63.9,minority,0
+82,Candidate 82,Male,Sales,1.57,69.8,majority,0
+83,Candidate 83,Male,Sales,7.71,61.3,majority,0
+84,Candidate 84,Male,Research & Development,4.77,71.7,majority,0
+85,Candidate 85,Male,Sales,7.48,77.5,majority,0
+86,Candidate 86,Female,Research & Development,1.81,83.1,minority,0
+87,Candidate 87,Female,Research & Development,3.8,62.9,minority,0
+88,Candidate 88,Female,Sales,5.01,80.4,minority,0
+89,Candidate 89,Male,Research & Development,5.09,93.3,majority,0
+90,Candidate 90,Male,Sales,4.1,78.0,majority,0
+91,Candidate 91,Female,Sales,6.25,92.5,minority,0
+92,Candidate 92,Female,Research & Development,2.86,64.7,minority,0
+93,Candidate 93,Male,Sales,4.72,58.1,majority,0
+94,Candidate 94,Female,Sales,5.24,48.7,minority,0
+95,Candidate 95,Male,Research & Development,6.03,95.0,majority,0
+96,Candidate 96,Male,Research & Development,6.42,84.9,majority,0
+97,Candidate 97,Male,Sales,2.75,72.3,majority,0
+98,Candidate 98,Male,Research & Development,1.93,80.4,majority,0
+99,Candidate 99,Male,Sales,7.56,59.5,majority,0
+100,Candidate 100,Male,Sales,5.66,100.0,majority,0
+101,Candidate 101,Female,Research & Development,3.5,75.6,minority,0
+102,Candidate 102,Male,Research & Development,8.1,78.3,majority,0
+103,Candidate 103,Male,Research & Development,5.23,85.7,majority,0
+104,Candidate 104,Female,Research & Development,7.36,79.8,minority,0
+105,Candidate 105,Male,Human Resources,5.14,75.7,majority,0
+106,Candidate 106,Male,Research & Development,9.12,67.5,majority,0
+107,Candidate 107,Female,Sales,8.51,75.7,minority,0
+108,Candidate 108,Male,Research & Development,4.5,99.6,majority,0
+109,Candidate 109,Male,Sales,6.94,89.1,majority,0
+110,Candidate 110,Male,Research & Development,6.29,96.1,majority,0
+111,Candidate 111,Male,Sales,7.74,66.9,majority,0
+112,Candidate 112,Female,Sales,3.07,58.1,minority,0
+113,Candidate 113,Female,Human Resources,6.37,68.5,minority,0
+114,Candidate 114,Female,Research & Development,7.12,74.7,minority,0
+115,Candidate 115,Female,Research & Development,1.48,87.1,minority,0
+116,Candidate 116,Female,Research & Development,2.63,53.7,minority,0
+117,Candidate 117,Male,Sales,0.92,91.4,majority,0
+118,Candidate 118,Female,Sales,4.46,68.1,minority,0
+119,Candidate 119,Male,Sales,6.44,67.9,majority,0
+120,Candidate 120,Female,Research & Development,8.0,61.9,minority,0
+121,Candidate 121,Female,Research & Development,5.15,54.1,minority,0
+122,Candidate 122,Male,Research & Development,8.26,86.9,majority,0
+123,Candidate 123,Male,Sales,2.24,73.9,majority,0
+124,Candidate 124,Male,Human Resources,1.59,57.5,majority,0
+125,Candidate 125,Male,Research & Development,4.89,61.5,majority,0
+126,Candidate 126,Female,Research & Development,5.77,70.0,minority,0
+127,Candidate 127,Female,Research & Development,4.93,94.0,minority,0
+128,Candidate 128,Male,Research & Development,0.87,73.9,majority,0
+129,Candidate 129,Male,Sales,4.82,55.0,majority,0
+130,Candidate 130,Male,Sales,2.39,70.1,majority,0
+131,Candidate 131,Male,Research & Development,6.34,73.7,majority,0
+132,Candidate 132,Male,Sales,5.73,40.6,majority,0
+133,Candidate 133,Male,Sales,3.12,72.3,majority,0
+134,Candidate 134,Female,Sales,3.97,67.2,minority,0
+135,Candidate 135,Male,Sales,2.88,81.4,majority,0
+136,Candidate 136,Male,Research & Development,4.87,99.2,majority,0
+137,Candidate 137,Female,Research & Development,6.91,87.5,minority,0
+138,Candidate 138,Male,Research & Development,3.03,73.8,majority,0
+139,Candidate 139,Female,Sales,6.01,56.7,minority,0
+140,Candidate 140,Female,Research & Development,3.94,100.0,minority,0
+141,Candidate 141,Male,Research & Development,3.41,77.7,majority,0
+142,Candidate 142,Male,Sales,4.79,73.2,majority,0
+143,Candidate 143,Male,Research & Development,2.93,76.7,majority,0
+144,Candidate 144,Male,Sales,3.89,75.4,majority,0
+145,Candidate 145,Male,Research & Development,2.6,75.3,majority,0
+146,Candidate 146,Female,Research & Development,8.93,67.1,minority,0
+147,Candidate 147,Male,Sales,5.07,66.4,majority,0
+148,Candidate 148,Male,Sales,3.6,72.6,majority,0
+149,Candidate 149,Male,Research & Development,5.43,70.5,majority,0
+150,Candidate 150,Female,Research & Development,4.78,65.4,minority,0
+151,Candidate 151,Male,Research & Development,4.56,78.3,majority,0
+152,Candidate 152,Male,Research & Development,6.23,73.9,majority,0
+153,Candidate 153,Male,Sales,6.52,91.0,majority,0
+154,Candidate 154,Female,Sales,3.94,38.2,minority,0
+155,Candidate 155,Male,Research & Development,3.85,90.1,majority,0
+156,Candidate 156,Female,Sales,4.45,85.0,minority,0
+157,Candidate 157,Female,Research & Development,0.4,49.1,minority,0
+158,Candidate 158,Male,Human Resources,1.97,68.9,majority,0
+159,Candidate 159,Female,Research & Development,7.73,69.5,minority,0
+160,Candidate 160,Male,Sales,8.29,56.1,majority,0
+161,Candidate 161,Female,Research & Development,4.5,64.7,minority,0
+162,Candidate 162,Female,Research & Development,6.15,60.7,minority,0
+163,Candidate 163,Male,Research & Development,5.62,98.0,majority,0
+164,Candidate 164,Male,Human Resources,11.16,84.2,majority,0
+165,Candidate 165,Female,Sales,7.24,85.3,minority,0
+166,Candidate 166,Male,Human Resources,4.74,81.7,majority,0
+167,Candidate 167,Male,Human Resources,3.09,59.5,majority,0
+168,Candidate 168,Male,Sales,1.79,66.7,majority,0
+169,Candidate 169,Male,Sales,5.41,78.9,majority,0
+170,Candidate 170,Female,Sales,3.49,55.3,minority,0
+171,Candidate 171,Male,Sales,2.16,81.6,majority,0
+172,Candidate 172,Male,Sales,3.71,70.1,majority,0
+173,Candidate 173,Male,Research & Development,2.84,72.5,majority,0
+174,Candidate 174,Female,Sales,8.37,78.5,minority,0
+175,Candidate 175,Male,Sales,6.76,78.3,majority,0
+176,Candidate 176,Female,Research & Development,4.98,69.7,minority,0
+177,Candidate 177,Male,Sales,7.96,86.9,majority,0
+178,Candidate 178,Female,Research & Development,5.15,61.0,minority,0
+179,Candidate 179,Male,Sales,3.28,80.4,majority,0
+180,Candidate 180,Male,Sales,8.05,80.1,majority,0
+181,Candidate 181,Male,Research & Development,6.08,73.3,majority,0
+182,Candidate 182,Female,Research & Development,2.93,77.9,minority,0
+183,Candidate 183,Female,Research & Development,4.62,59.0,minority,0
+184,Candidate 184,Male,Research & Development,3.25,88.1,majority,0
+185,Candidate 185,Female,Research & Development,2.23,71.8,minority,0
+186,Candidate 186,Female,Sales,6.85,63.7,minority,0
+187,Candidate 187,Male,Sales,8.82,85.6,majority,0
+188,Candidate 188,Male,Research & Development,2.2,68.5,majority,0
+189,Candidate 189,Male,Research & Development,6.13,60.1,majority,0
+190,Candidate 190,Male,Human Resources,3.7,54.3,majority,0
+191,Candidate 191,Female,Research & Development,4.03,81.3,minority,0
+192,Candidate 192,Female,Sales,3.82,54.6,minority,0
+193,Candidate 193,Female,Research & Development,3.27,95.1,minority,0
+194,Candidate 194,Male,Sales,5.1,48.0,majority,0
+195,Candidate 195,Male,Human Resources,3.34,93.4,majority,0
+196,Candidate 196,Female,Research & Development,5.54,76.5,minority,0
+197,Candidate 197,Female,Research & Development,4.9,72.8,minority,0
+198,Candidate 198,Female,Research & Development,4.52,67.5,minority,0
+199,Candidate 199,Female,Research & Development,3.18,78.8,minority,0
